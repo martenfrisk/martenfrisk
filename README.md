@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Mårten 👋
+
+I study full stack web development @ Chas Academy. Graduating in 2021.
+
+I like React and creating useful but niche SPAs such as a podcast transcript search engine or a medieval Korean bureaucracy generator. 
+
+Check out my portfolio at https://martenfrisk.github.io/p
 
 <!--
 **martenfrisk/martenfrisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
