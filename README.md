@@ -1,8 +1,17 @@
-### Hi, I'm Mårten 👋
+# What are *you* doin' here? 🐴
 
 I study full stack web development @ Chas Academy. Graduating in 2021.
 
-I like React and creating useful but niche SPAs such as a podcast transcript search engine or a medieval Korean bureaucracy generator. 
+I like React and creating useful but niche SPAs such as podcast transcript search engines or a medieval Korean bureaucracy generator. 
+
+## Seekers' Lounge
+
+Search through all episodes of the Teacher's Lounge podcast. Transcribed with AWS Transcribe and search powered by ElasticSearch. 
+
+## Handbook Search
+
+Same as Seekers' Lounge but for Hollywood Handbook. 
+
 
 Check out my portfolio at https://martenfrisk.github.io/p
 
