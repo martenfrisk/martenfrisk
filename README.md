@@ -1,6 +1,4 @@
-<div style="text-align: center; width: 100%; background-color: gray;">
-  <img src="https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif" alt="Scene from Spirited Away" />
-</div>
+![Spirited Away](https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif)
 
 ___
 
@@ -23,6 +21,8 @@ Search through all episodes of the Teacher's Lounge podcast. Transcribed with AW
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martenfrisk&repo=seekerslounge&theme=cobalt)](https://github.com/martenfrisk/seekerslounge)
 
+![Seekers' Lounge reactions](https://github.com/martenfrisk/martenfrisk/blob/master/seekers-comments.png)
+
 
 ##  Handbook Search 🎬
 
@@ -30,6 +30,7 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martenfrisk&repo=handbooksearch&theme=cobalt)](https://github.com/martenfrisk/handbooksearch)
 
+![Handbook Search reactions](https://github.com/martenfrisk/martenfrisk/blob/master/handbooksearch-comments.png)
 
 ## Links 
 
