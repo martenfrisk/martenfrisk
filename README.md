@@ -36,11 +36,12 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 
 
 <br>
-:zap: Recent Activity
+# :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+---
 <br>
 <img src="https://github-readme-stats.vercel.app/api/?username=martenfrisk&show_icons=true&theme=cobalt" alt="GitHub stats for martenfrisk" />
 
