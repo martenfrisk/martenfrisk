@@ -16,7 +16,11 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 Check out my portfolio at https://martenfrisk.github.io/p
 
 <br>
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 <br>
 <img src="https://github-readme-stats.vercel.app/api/?username=martenfrisk&show_icons=true&theme=prussian" alt="GitHub stats for martenfrisk" />
 
