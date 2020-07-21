@@ -41,11 +41,11 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 ##  ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
----
-<br>
-<img src="https://github-readme-stats.vercel.app/api/?username=martenfrisk&show_icons=true&theme=cobalt" alt="GitHub stats for martenfrisk" />
+1. 🎉 Merged PR [#2](https://github.com//martenfrisk/p/pull/2) in [martenfrisk/p](https://github.com//martenfrisk/p)
+2. 🎉 Merged PR [#1](https://github.com//martenfrisk/pokeapi-laravel/pull/1) in [martenfrisk/pokeapi-laravel](https://github.com//martenfrisk/pokeapi-laravel)
+3. 🎉 Merged PR [#8](https://github.com//martenfrisk/seekerslounge/pull/8) in [martenfrisk/seekerslounge](https://github.com//martenfrisk/seekerslounge)
+4. 💪 Opened PR [#8](https://github.com//martenfrisk/seekerslounge/pull/8) in [martenfrisk/seekerslounge](https://github.com//martenfrisk/seekerslounge)
+5. ❗️ Opened issue [#7](https://github.com//martenfrisk/seekerslounge/issues/7) in [martenfrisk/seekerslounge](https://github.com//martenfrisk/seekerslounge)
 
 <!--
 **martenfrisk/martenfrisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
