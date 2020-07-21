@@ -36,7 +36,7 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 
 
 <br>
-# :zap: Recent Activity
+# ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
