@@ -35,12 +35,16 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 
 ---
 
-## Links 
+## :link: Links 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-💼-9cf?style=for-the-badge)](https://martenfrisk.github.io/p)
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&color=9cf&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/martenfrisk/)
 
+
+## :octocat: GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=martenfrisk&show_icons=true&theme=cobalt)
 
 ##  ⚡ Recent Activity
 
