@@ -1,8 +1,13 @@
 # Hi 👋
 
-I study full stack web development @ Chas Academy. Graduating in 2021.
+I study full stack web development @ Chas Academy. 
 
-I like React and creating useful but niche SPAs such as podcast transcript search engines or a medieval Korean bureaucracy generator. 
+Graduating in 2021.
+
+
+I like React and creating useful but niche SPAs.
+
+Such as podcast transcript search engines or a medieval Korean bureaucracy generator. 
 
 
 ![Spirited Away](https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif)
