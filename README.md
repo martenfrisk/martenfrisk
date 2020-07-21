@@ -1,4 +1,4 @@
-![Spirited Away](https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif)
+![What are you doing here](https://github.com/martenfrisk/martenfrisk/blob/master/doinghere3.gif)
 
 ___
 
