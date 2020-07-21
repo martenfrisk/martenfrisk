@@ -4,12 +4,11 @@ ___
 
 ## Studying full stack web development @ Chas Academy
 
-Graduating in 2021.
+Graduating in 2021
 
+❤ React and creating useful but niche SPAs
 
-## ❤ React and creating useful but niche SPAs
-
-Such as podcast transcript search engines or a medieval Korean bureaucracy generator. 
+Projects include podcast transcript search engines and a medieval Korean bureaucracy generator
 
 
 ---
