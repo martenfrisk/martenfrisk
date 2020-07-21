@@ -33,9 +33,9 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 
 ## Links 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-💼-blue?style=for-the-badge)](https://martenfrisk.github.io/p)
+[![Portfolio](https://img.shields.io/badge/Portfolio-💼-9cf?style=for-the-badge)](https://martenfrisk.github.io/p)
 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/martenfrisk/)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&color=9cf&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/martenfrisk/)
 
 
 ##  ⚡ Recent Activity
