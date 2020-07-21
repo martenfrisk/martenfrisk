@@ -1,12 +1,13 @@
+<div style="text-align: center;">
+  <img src="https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif" alt="Scene from Spirited Away" />
+</div>
 
-![Spirited Away](https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif)
-
-## Studying full stack web development @ Chas Academy. 
+## Studying full stack web development @ Chas Academy
 
 Graduating in 2021.
 
 
-## ❤ React and creating useful but niche SPAs.
+## ❤ React and creating useful but niche SPAs
 
 Such as podcast transcript search engines or a medieval Korean bureaucracy generator. 
 
