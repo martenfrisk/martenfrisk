@@ -1,4 +1,4 @@
-![What are you doing here](https://github.com/martenfrisk/martenfrisk/blob/master/doinghere3.gif)
+![Porco Rosso](https://github.com/martenfrisk/martenfrisk/blob/master/porcoloop3.gif)
 
 ___
 
