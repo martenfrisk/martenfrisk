@@ -1,4 +1,4 @@
-# What are *you* doin' here? 🐴
+# What are *you* doing here? 🐴
 
 I study full stack web development @ Chas Academy. Graduating in 2021.
 
@@ -14,6 +14,11 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 
 
 Check out my portfolio at https://martenfrisk.github.io/p
+
+<br>
+<!--START_SECTION:activity-->
+<br>
+<img src="https://github-readme-stats.vercel.app/api/?username=martenfrisk&show_icons=true&theme=prussian" alt="GitHub stats for martenfrisk" />
 
 <!--
 **martenfrisk/martenfrisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
