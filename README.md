@@ -4,7 +4,7 @@ I study full stack web development @ Chas Academy. Graduating in 2021.
 
 I like React and creating useful but niche SPAs such as podcast transcript search engines or a medieval Korean bureaucracy generator. 
 <div style="display: flex; justify-content: center; width: 100%;">
-<img src="https://i.imgur.com/pNlegyU.gif" alt="Scene from Spirited Away" />
+![image](https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif)
 </div>
 
 ## Seekers' Lounge
