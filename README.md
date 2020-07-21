@@ -16,7 +16,7 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 Check out my portfolio at https://martenfrisk.github.io/p
 
 <br>
-### :zap: Recent Activity
+:zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
