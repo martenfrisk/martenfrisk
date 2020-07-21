@@ -1,23 +1,23 @@
-# Hi 👋
 
-I study full stack web development @ Chas Academy. 
+![Spirited Away](https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif)
+
+## Studying full stack web development @ Chas Academy. 
 
 Graduating in 2021.
 
 
-I like React and creating useful but niche SPAs.
+## ❤ React and creating useful but niche SPAs.
 
 Such as podcast transcript search engines or a medieval Korean bureaucracy generator. 
 
 
-![Spirited Away](https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif)
 
-
-## Seekers' Lounge
+# 👨‍💻 Some projects of mine
+##  Seekers' Lounge 👩‍🏫
 
 Search through all episodes of the Teacher's Lounge podcast. Transcribed with AWS Transcribe and search powered by ElasticSearch. 
 
-## Handbook Search
+##  Handbook Search 🎬
 
 Same as Seekers' Lounge but for Hollywood Handbook. 
 
