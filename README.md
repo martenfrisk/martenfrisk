@@ -1,8 +1,10 @@
-# What are *you* doing here? 🐴
+# Hi 👋
 
 I study full stack web development @ Chas Academy. Graduating in 2021.
 
 I like React and creating useful but niche SPAs such as podcast transcript search engines or a medieval Korean bureaucracy generator. 
+
+<video controls="false" autoplay="true" name="media" loop="true"  width="480px" height="260px"><source src="https://i.imgur.com/JcbvjxI.mp4" type="video/mp4"></video>
 
 ## Seekers' Lounge
 
