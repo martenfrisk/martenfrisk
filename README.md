@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%; background-color: gray;">
   <img src="https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif" alt="Scene from Spirited Away" />
 </div>
 
