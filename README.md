@@ -2,6 +2,8 @@
   <img src="https://github.com/martenfrisk/martenfrisk/blob/master/spirited-away.gif" alt="Scene from Spirited Away" />
 </div>
 
+___
+
 ## Studying full stack web development @ Chas Academy
 
 Graduating in 2021.
@@ -12,6 +14,7 @@ Graduating in 2021.
 Such as podcast transcript search engines or a medieval Korean bureaucracy generator. 
 
 
+---
 
 # 👨‍💻 Some projects of mine
 ##  Seekers' Lounge 👩‍🏫
@@ -35,8 +38,7 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/martenfrisk/)
 
 
-<br>
-# ⚡ Recent Activity
+##  ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
