@@ -48,11 +48,11 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 ##  ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//martenfrisk/p/pull/2) in [martenfrisk/p](https://github.com//martenfrisk/p)
-2. 🎉 Merged PR [#1](https://github.com//martenfrisk/pokeapi-laravel/pull/1) in [martenfrisk/pokeapi-laravel](https://github.com//martenfrisk/pokeapi-laravel)
-3. 🎉 Merged PR [#8](https://github.com//martenfrisk/seekerslounge/pull/8) in [martenfrisk/seekerslounge](https://github.com//martenfrisk/seekerslounge)
-4. 💪 Opened PR [#8](https://github.com//martenfrisk/seekerslounge/pull/8) in [martenfrisk/seekerslounge](https://github.com//martenfrisk/seekerslounge)
-5. ❗️ Opened issue [#7](https://github.com//martenfrisk/seekerslounge/issues/7) in [martenfrisk/seekerslounge](https://github.com//martenfrisk/seekerslounge)
+1. 🎉 Merged PR [#1](https://github.com//martenfrisk/masterclass/pull/1) in [martenfrisk/masterclass](https://github.com//martenfrisk/masterclass)
+2. 🎉 Merged PR [#2](https://github.com//martenfrisk/p/pull/2) in [martenfrisk/p](https://github.com//martenfrisk/p)
+3. 🎉 Merged PR [#1](https://github.com//martenfrisk/pokeapi-laravel/pull/1) in [martenfrisk/pokeapi-laravel](https://github.com//martenfrisk/pokeapi-laravel)
+4. 🎉 Merged PR [#8](https://github.com//martenfrisk/seekerslounge/pull/8) in [martenfrisk/seekerslounge](https://github.com//martenfrisk/seekerslounge)
+5. 💪 Opened PR [#8](https://github.com//martenfrisk/seekerslounge/pull/8) in [martenfrisk/seekerslounge](https://github.com//martenfrisk/seekerslounge)
 <!--END_SECTION:activity-->
 
 <!--
