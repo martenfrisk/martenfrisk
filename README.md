@@ -61,4 +61,3 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 ##  ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-
