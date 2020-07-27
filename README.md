@@ -14,6 +14,17 @@ Projects include podcast transcript search engines and a medieval Korean bureauc
 ---
 
 # 👨‍💻 Some projects of mine
+## Hollywood Masterclass fan site ⭐🌃
+
+Found at [hollywoodmasterclass.co](http://www.hollywoodmasterclass.co).
+
+Promotional (fan) website for the podcast Hollywood Masterclass. 
+
+With snazzy animated signature.
+
+Roughly 500+ page views in first 24 hours. 
+
+
 ##  Seekers' Lounge 👩‍🏫
 
 Search through all episodes of the Teacher's Lounge podcast. Transcribed with AWS Transcribe and search powered by ElasticSearch. 
