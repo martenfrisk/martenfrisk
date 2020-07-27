@@ -58,6 +58,3 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=martenfrisk&show_icons=true&theme=cobalt)
 
-##  ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
