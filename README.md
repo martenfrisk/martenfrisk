@@ -16,6 +16,8 @@ Projects include podcast transcript search engines and a medieval Korean bureauc
 # 👨‍💻 Some projects of mine
 ## Hollywood Masterclass fan site ⭐🌃
 
+![Hollywood Masterclass animated signature](https://github.com/martenfrisk/martenfrisk/blob/master/masterclass-small.gif)
+
 Found at [hollywoodmasterclass.co](http://www.hollywoodmasterclass.co).
 
 Promotional (fan) website for the podcast Hollywood Masterclass. 
