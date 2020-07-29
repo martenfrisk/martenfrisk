@@ -10,8 +10,17 @@ Graduating in 2021
 
 Projects include podcast transcript search engines and a medieval Korean bureaucracy generator
 
+___
+&nbsp;
 
----
+
+# [👉 View my portfolio 💼 (martenfrisk.github.io)](https://martenfrisk.github.io/)
+
+&nbsp;
+
+&nbsp;
+
+___
 
 # 👨‍💻 Some projects of mine
 ## Hollywood Masterclass fan site ⭐🌃
@@ -49,7 +58,7 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 
 ## :link: Links 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-💼-9cf?style=for-the-badge)](https://martenfrisk.github.io/p)
+[![Portfolio](https://img.shields.io/badge/Portfolio-💼-9cf?style=for-the-badge)](https://martenfrisk.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&color=9cf&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/martenfrisk/)
 
