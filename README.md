@@ -1,5 +1,8 @@
 ![Porco Rosso](https://github.com/martenfrisk/martenfrisk/blob/master/porcoloop4.gif)
 
+
+&nbsp;
+
 ___
 
 ## Studying full stack web development @ Chas Academy
@@ -24,6 +27,9 @@ ___
 ___
 
 # 👨‍💻 Some projects of mine
+
+&nbsp;
+
 ## Hollywood Masterclass fan site ⭐🌃
 
 ![Hollywood Masterclass animated signature](https://github.com/martenfrisk/martenfrisk/blob/master/masterclass-small.gif)
@@ -36,6 +42,9 @@ With snazzy animated signature.
 
 Roughly 500+ page views in first 24 hours. 
 
+&nbsp;
+
+---
 
 ##  Seekers' Lounge 👩‍🏫
 
@@ -44,6 +53,8 @@ Search through all episodes of the Teacher's Lounge podcast. Transcribed with AW
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=martenfrisk&repo=seekerslounge&theme=cobalt)](https://github.com/martenfrisk/seekerslounge)
 
 ![Seekers' Lounge reactions](https://github.com/martenfrisk/martenfrisk/blob/master/seekers-comments.png)
+
+&nbsp;
 
 ---
 
@@ -55,6 +66,8 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 
 ![Handbook Search reactions](https://github.com/martenfrisk/martenfrisk/blob/master/handbooksearch-comments.png)
 
+&nbsp;
+
 ---
 
 ## :link: Links 
@@ -62,6 +75,8 @@ Same as Seekers' Lounge but for Hollywood Handbook.
 [![Portfolio](https://img.shields.io/badge/Portfolio-💼-9cf?style=for-the-badge)](https://martenfrisk.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&color=9cf&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/martenfrisk/)
+
+&nbsp;
 
 
 ## :octocat: GitHub stats
