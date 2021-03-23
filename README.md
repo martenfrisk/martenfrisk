@@ -9,18 +9,14 @@ ___
 
 Graduating in 2021
 
-❤ React and creating useful but niche SPAs
+❤ React, Svelte and creating useful but niche SPAs
 
 Projects include podcast transcript search engines and a medieval Korean bureaucracy generator
 
 ___
 &nbsp;
 
-&nbsp;
-
-# [👉 View my portfolio 💼 (martenfrisk.github.io)](https://martenfrisk.github.io/)
-
-&nbsp;
+## [👉 My portfolio 💼 (martenfrisk.github.io)](https://martenfrisk.github.io/)
 
 &nbsp;
 
