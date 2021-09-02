@@ -14,13 +14,9 @@ Graduating in 2021
 Projects include podcast transcript search engines and a medieval Korean bureaucracy generator
 
 ___
-&nbsp;
 
-## [👉 My portfolio 💼 (martenfrisk.github.io)](https://martenfrisk.github.io/)
+# [Portfolio 💼 (martenfrisk.github.io)](https://martenfrisk.github.io/)
 
-&nbsp;
-
-___
 
 # 👨‍💻 Some projects of mine
 
