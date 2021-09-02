@@ -1,19 +1,8 @@
 ![Porco Rosso](https://github.com/martenfrisk/martenfrisk/blob/master/porcoloop4.gif)
 
 
-&nbsp;
-
-___
-
-## Studying full stack web development @ Chas Academy
-
-Graduating in 2021
 
 ❤ React, Svelte and creating useful but niche SPAs
-
-Projects include podcast transcript search engines and a medieval Korean bureaucracy generator
-
-___
 
 # [Portfolio 💼 (martenfrisk.github.io)](https://martenfrisk.github.io/)
 
