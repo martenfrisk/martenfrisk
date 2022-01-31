@@ -1,33 +1,18 @@
 ![Porco Rosso](https://github.com/martenfrisk/martenfrisk/blob/master/porcoloop4.gif)
 
+&nbsp;
 
-
-❤ React, Svelte and creating useful but niche SPAs
-
-# [Portfolio 💼 (martenfrisk.github.io)](https://martenfrisk.github.io/)
-
-
-# 👨‍💻 Some projects of mine
+❤ React, Svelte and creating web apps | [Portfolio 💼](https://martenfrisk.github.io/)
 
 &nbsp;
 
-## Hollywood Masterclass fan site ⭐🌃
-
-![Hollywood Masterclass animated signature](https://github.com/martenfrisk/martenfrisk/blob/master/masterclass-small.gif)
-
-Found at [hollywoodmasterclass.co](http://www.hollywoodmasterclass.co).
-
-Promotional (fan) website for the podcast Hollywood Masterclass. 
-
-With snazzy animated signature.
-
-Roughly 500+ page views in first 24 hours. 
+<p align="center">
+Some projects of mine
+</p>
 
 &nbsp;
 
----
-
-##  Seekers' Lounge 👩‍🏫
+####  Seekers' Lounge
 
 Search through all episodes of the Teacher's Lounge podcast. Transcribed with AWS Transcribe and search powered by ElasticSearch. 
 
@@ -39,7 +24,7 @@ Search through all episodes of the Teacher's Lounge podcast. Transcribed with AW
 
 ---
 
-##  Handbook Search 🎬
+####  Handbook Search
 
 Same as Seekers' Lounge but for Hollywood Handbook. 
 
